@@ -1,6 +1,5 @@
 public class Ejercicio_1{
   public static void main(String[] args){
-    
     int val1 = 144;
     int val2 = 999;
     
