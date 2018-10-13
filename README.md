@@ -4,7 +4,7 @@
 ## [Programación](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION)
 > ###### Folder **[Programación](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION)** will contain a collection of themes with the different exercises inside them.
 
-##### **Sort by :** *ExercisePage00_000*
+##### **Sort by :** *PageExercise000_00*
 
 * [TEMA 1](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_1) - Exercises related to : *__"Screen output"__*.
 
