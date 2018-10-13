@@ -8,7 +8,7 @@
 (It contain exercises related to : *__"Screen output"__*.)
 
 * [TEMA 2](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_2)
-(It contain exercises related to : *__"Variables"__*)
+(It contain exercises related to : *__"Variables"__*.)
 
 * [TEMA 3](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_3)
-(It contain exercises related to : *__"Data reading by keboard "__*)
+(It contain exercises related to : *__"Data reading by keboard "__*.)
