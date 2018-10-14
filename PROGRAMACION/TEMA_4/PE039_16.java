@@ -17,7 +17,7 @@ public class PE039_16{
     preguntas[8] = "9-¿Se perfuma más?";
     preguntas[9] = "10-¿Se confunde y dice que ha esta en sitios donde nunca ha estado contigo?";
     
-    for (int i=0;i >= 10;++i){
+    for (int i=0;i < 10;++i){
       
       System.out.println(preguntas[i]);
       System.out.print("¿Verdadero[y] o falso[f]? : ");
