@@ -12,5 +12,7 @@
 
 * [TEMA 3](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_3) - Exercises related to : *__"Data reading by keboard "__*.
 
+* [TEMA 4](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_4) - Exercises related to : *__"Condicional Sentences (`if` y `switch`)"__*.
+
 ## Books
 * ["Aprende Java con ejercicios"](https://leanpub.com/aprendejava/) - *Luis José Sánchez*
