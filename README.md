@@ -14,5 +14,10 @@
 
 * [TEMA 4](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_4) - Exercises related to : *__"Condicional Sentences (`if` y `switch`)"__*.
 
+* [TEMA 5](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_5) - Exercises related to : *__"Loops"__*
+
+> ### [Extra excercises](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/EXTRA)
+> **Sort by :** *Excercise00DayMonthYear*
+
 ## Books
 * ["Aprende Java con ejercicios"](https://leanpub.com/aprendejava/) - *Luis José Sánchez*
