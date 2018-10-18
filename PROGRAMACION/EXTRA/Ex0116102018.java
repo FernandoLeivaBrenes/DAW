@@ -1,4 +1,4 @@
-public class Ex16102018{
+public class Ex0116102018{
   public static void main(String[] args){
     System.out.println("ADIVINA NUMERO -->");
     int num = (int)(Math.random()*100), valMay = 1000, valMen=0, numIntr=0;
