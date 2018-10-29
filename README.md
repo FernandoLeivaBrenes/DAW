@@ -1,8 +1,8 @@
 # [DAW](https://github.com/FernandoLeivaBrenes/DAW)
-> ###### This repository containt all subjects of Web Application Development.
+> ###### This repository containt all subjects of Development Application Web.
 
 ## [Programación](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION)
-> ###### Folder **[Programación](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION)** will contain a collection of themes with the different exercises inside them.
+> ###### Folder **[Programación](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION)** will contain a collection of themes with different exercises inside them.
 
 ##### **Sort by :** *PageExercise000_00*
 
@@ -10,7 +10,7 @@
 
 * [TEMA 2](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_2) - Exercises related to : *__"Variables"__*.
 
-* [TEMA 3](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_3) - Exercises related to : *__"Data reading by keboard "__*.
+* [TEMA 3](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_3) - Exercises related to : *__"Data reading by keyboard "__*.
 
 * [TEMA 4](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_4) - Exercises related to : *__"Condicional Sentences (`if` y `switch`)"__*.
 
