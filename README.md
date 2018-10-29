@@ -16,6 +16,8 @@
 
 * [TEMA 5](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_5) - Exercises related to : *__"Loops"__*
 
+* [TEMA 6](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_6) - Exercises related to : *__"Random Numbers"__*
+
 > ### [Extra excercises](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/EXTRA)
 > **Sort by :** *Excercise00DayMonthYear*
 
