@@ -48,9 +48,12 @@ public class PE074_02{
 			cartanumero = ""+carta;
 			UNIcartanumero = ""+carta;
 			}
-		String karta = "\\uD83C\\uDC"+UNIcartapalo+UNIcartanumero;
+			
+		String mostrarcarta = "\\uDC"+UNIcartapalo+UNIcartanumero;
+		char cartita = (char) Integer.parseInt( mostrarcarta.substring(2), 16 );
+		
 		System.out.println("Palo de la carta : "+cartapalo);
 		System.out.println("Numero de la carta : "+cartanumero);
-		System.out.printf("Carta : "+ (String)karta);
+		System.out.printf("Carta : \uD83C"+cartita+" ");
 		}
 	}
