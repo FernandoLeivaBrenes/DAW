@@ -32,6 +32,7 @@ public class PE074_02{
 			case 10:
 			cartanumero = " 10";
 			UNIcartanumero = "A";
+			break;
 			case 11:
 			cartanumero = " J";
 			UNIcartanumero = "B";
