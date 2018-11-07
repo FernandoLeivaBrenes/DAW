@@ -19,7 +19,7 @@ public class ejercicio4_deposito{
 			rentabilidad = (saldoInicial*rentabilidadMe)/100;
 			saldoInicial += rentabilidad;
 			meses++;
-			}while(saldoInicial<=cantidadDeseada);
+			}while(saldoInicial<cantidadDeseada);
 			//~ Si el saldoInicial es menor que cantidadDeseada despues del hacer este bucle de operaciones,
 			//~ se hará un nuevo avance para que lo supere por un minimo.
 			if(saldoInicial<cantidadDeseada){
