@@ -6,7 +6,7 @@ public class PE093_04{
 				numero[i]= (int)(Math.random()*101);
 				cuadrado[i]= numero[i]*numero[i];
 				cubo[i]= cuadrado[i]*numero[i];
-				System.out.println((numero.length-i)+"º valor : "+numero[i]+" -- "+cuadrado[i]+" -- "+cubo[i]);
+				System.out.printf("%2d º valor : %3d -- %4d -- %5d\n",(numero.length-i) ,numero[i], cuadrado[i], cubo[i]);
 			}
 		}
 	}
