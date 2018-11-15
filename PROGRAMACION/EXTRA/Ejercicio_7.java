@@ -1,4 +1,4 @@
-public class EJERCICIO7{
+public class Ejercicio_7{
 	public static void main(String[] args){
 		//~ Crear array contenedor
 		String[][] campoMina = new String[7][7];
