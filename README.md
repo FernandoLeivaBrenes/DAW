@@ -18,6 +18,8 @@
 
 * [TEMA 6](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_6) - Exercises related to : *__"Random Numbers"__*
 
+* [TEMA 7](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/TEMA_7) - Exercises related to : *__"Arrays"__*
+
 > ### [Extra excercises](https://github.com/FernandoLeivaBrenes/DAW/tree/master/PROGRAMACION/EXTRA)
 > **Sort by :** *Excercise00DayMonthYear*
 
