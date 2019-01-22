@@ -15,18 +15,17 @@ public class Ejercicio_3{
 	public static void mostrarDesglose ( double precio, int numUnits, int codDesc ){
 		
 		double total = precio * (double)numUnits;
-		double descuento;
+		double descuento = 0;
 		String descString;
 		
 		switch(codDesc){
 			case 685:
 				descString = "Código 685:	";
-				descuento = 15;
+				if( total > 15 ){ descuento = 15;}
 			break;
 			case 778:
 				descString = "Código 778:	";
 				if(numUnits > 20){
-					numUnits -= 20;
 					descuento = (20 * precio) * 0.05;
 					}else{
 						descuento = (numUnits*precio) * 0.05;
@@ -36,9 +35,7 @@ public class Ejercicio_3{
 				descString = "Código 219:	";
 				if(numUnits > 5 ){
 					descuento = 5*precio;
-					}else{
-						descuento = 0;
-						}
+					}
 			break;
 			default:
 				descString = " Código no válido";

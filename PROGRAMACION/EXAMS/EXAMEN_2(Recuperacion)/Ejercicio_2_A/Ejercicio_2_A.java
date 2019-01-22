@@ -51,9 +51,8 @@ public class Ejercicio_2_A{
 			for(int j=0; j < arr[1].length && !salir; j++){
 				if( arr[0][i] == arr[1][j] ){
 					contadorRep++;
-					}else{
-						salir=true;
-						}
+					salir = true;
+					}
 				}
 				salir=false;
 			}
